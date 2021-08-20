@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oplagoassignment/static/css/main.a6d6c670.chunk.css",
+    "main.js": "/oplagoassignment/static/js/main.eacd00f6.chunk.js",
+    "main.js.map": "/oplagoassignment/static/js/main.eacd00f6.chunk.js.map",
+    "runtime-main.js": "/oplagoassignment/static/js/runtime-main.82437d74.js",
+    "runtime-main.js.map": "/oplagoassignment/static/js/runtime-main.82437d74.js.map",
+    "static/css/2.d55d44d6.chunk.css": "/oplagoassignment/static/css/2.d55d44d6.chunk.css",
+    "static/js/2.1fdd1860.chunk.js": "/oplagoassignment/static/js/2.1fdd1860.chunk.js",
+    "static/js/2.1fdd1860.chunk.js.map": "/oplagoassignment/static/js/2.1fdd1860.chunk.js.map",
+    "index.html": "/oplagoassignment/index.html",
+    "static/css/2.d55d44d6.chunk.css.map": "/oplagoassignment/static/css/2.d55d44d6.chunk.css.map",
+    "static/css/main.a6d6c670.chunk.css.map": "/oplagoassignment/static/css/main.a6d6c670.chunk.css.map",
+    "static/js/2.1fdd1860.chunk.js.LICENSE.txt": "/oplagoassignment/static/js/2.1fdd1860.chunk.js.LICENSE.txt",
+    "static/media/main.688678be.jpeg": "/oplagoassignment/static/media/main.688678be.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82437d74.js",
+    "static/css/2.d55d44d6.chunk.css",
+    "static/js/2.1fdd1860.chunk.js",
+    "static/css/main.a6d6c670.chunk.css",
+    "static/js/main.eacd00f6.chunk.js"
+  ]
+}
